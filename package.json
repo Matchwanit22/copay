@@ -127,7 +127,7 @@
     "bitauth": "git+https://github.com/bitpay/bitauth.git#6bfe7df3d1cde303507d29a9d9c98b1f429ba46e",
     "bitcore-wallet-client": "8.20.3",
     "buffer-compare": "1.1.1",
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.4",
     "cordova": "8.1.2",
     "cordova-android": "7.1.4",
     "cordova-clipboard": "1.2.1",
